@@ -7,7 +7,13 @@ Develop an E-Commerce Order Management System using MySQL, where users can manag
 
 **Objective:** Create the `ecommerce` database and the 7 core tables (with primary/foreign keys) that model the store: categories, products, customers, orders, order line-items, payments and shipping.
 
-**SQL Query:**
+## ▶ Demo Video
+
+<a href="https://drive.google.com/file/d/1USIxfN-uTZeX62orW1BwpLAXqaUXoDIy/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/▶-Watch%20Demo%20Video-181717?style=for-the-badge&logo=github&logoColor=white" alt="Watch Demo Video" />
+</a>
+
+## **SQL Query:**
 ```sql
 CREATE DATABASE ecommerce;
 USE ecommerce;
